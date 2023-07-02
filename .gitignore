@@ -1,1 +1,6 @@
 /node_modules
+/coverage
+/build
+
+.DB_Store
+.env.local
